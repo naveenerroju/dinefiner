@@ -51,10 +51,6 @@ out/
 # IntelliJ files
 *.iml
 modules.xml
-.idea/modules.xml
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/dictionaries
 .idea/libraries
 
 # OS-specific
@@ -132,12 +128,6 @@ yarn.lock
 
 # MacOS files
 *.DS_Store
-._*
-.Spotlight-V100
-.Trashes
-Icon?
-ehthumbs.db
-Thumbs.db
 
 # Vim
 [._]*.s[a-w][a-z]
